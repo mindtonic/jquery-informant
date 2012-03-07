@@ -1,0 +1,20 @@
+.informant-box {
+	position:absolute;
+	z-index:100;
+	width:500px;
+	margin-top:10px;
+	background:white;
+	padding:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:1px solid #cccccc;
+	-moz-box-shadow:0 0 4px 1px #ccc;
+	-webkit-box-shadow:0 0 4px 1px #ccc;
+	box-shadow:0 0 4px 1px #ccc;
+}
+
+.informant-box .informant-close {
+	float:right;
+	margin:0 0 5px 5px;
+}
